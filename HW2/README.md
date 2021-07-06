@@ -8,12 +8,13 @@ But as result, I find WSL more comfortable in use (which I already had). So, eve
 ### 2. Reading "Pro Git" [Chapter 4](https://git-scm.com/book/en/v2)
 ### 3. On GitHub:
 1. **Create a repo on GitHub**
-Was created this repo.
+Was created this repo. \
 2. **Connect to it by SSH key**
 
 ![connecting by ssh key](./media/hw2_task3_2.png) \
 3. **Create several branches on the repositories and create their connection:** \
 _master-> branch1-> branch2_ \
+
 ![VB](./media/hw2_first_commit.png)\
 ![VB](./media/hw2_task3_4.png)\
 4. **Make committees in the master and branches** \
