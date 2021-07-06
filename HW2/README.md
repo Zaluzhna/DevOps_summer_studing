@@ -3,14 +3,14 @@
 06.07.2021
 ### 1. Installing Linux distribution
 I installed Ubuntu 20.04.2.0 on Oracle VM VirtualBox. Also, later there was installed git. 
-![VB](/media/hw2_task1)
+![VB](./media/hw2_task1)
 But as result, I find WSL more comfortable in use (which I already had). So, everything next are done there using [this app](https://www.microsoft.com/store/productId/9N0DX20HK701), which I think is amazing to work with.
 ### 2. Reading "Pro Git" [Chapter 4](https://git-scm.com/book/en/v2)
 ### 3. On GitHub:
 1. **Create a repo on GitHub**
 Was created this repo.
 2. **Connect to it by SSH key**
-![connecting by ssh key](/media/hw2_task3_2)
+![connecting by ssh key](./media/hw2_task3_2)
 3. **Create several branches on the repositories and create their connection:**
 _master-> branch1-> branch2_
 4. **Make committees in the master and branches**
