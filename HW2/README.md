@@ -19,6 +19,7 @@ _master-> branch1-> branch2_ \
 ![VB](./media/hw2_task3_4.png)\
 4. **Make committees in the master and branches** \
 5. **Combine branch2 into branch1; branch1 into master.** \
+![VB](./media/hw2_task3_5.png)\
 6. **Try to cause and resolve the merger conflict**
 
 > Recommended for watch: \
