@@ -1,6 +1,6 @@
 ## Home Work № 1
 ---
-02.07.2021
+02.07.2021  
 **1. Зареєструватися на [GitHub](https://github.com/)**  
 **2. Пройти тренування на [Introduction to GitHub](https://lab.github.com/)**  
 >Рекомендовано до прочитання:  
