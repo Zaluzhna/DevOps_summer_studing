@@ -1,4 +1,4 @@
-# Home Work № 2
+# Home Work № 1
 ---
 06.07.2021
 ### 1. Installing Linux distribution
