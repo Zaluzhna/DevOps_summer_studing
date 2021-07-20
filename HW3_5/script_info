@@ -1,0 +1,15 @@
+#!/bin/bash
+
+DGRAY='\033[1;30m'
+NC='\033[0m'
+
+d=$(/bin/pwd)
+echo -e "${NC}In directory ${DGRAY}$d"
+
+f=$(/usr/bin/find . -type f 2> /dev/null | wc -l)
+echo -e "${NC}Number of files: ${DGRAY}$f"
+
+d=$(/usr/bin/find . -type d 2> /dev/null | wc -l)
+echo -e "${NC}Number of dir: ${DGRAY}$d"
+
+exit
