@@ -45,6 +45,7 @@ mysql: GRANT ALL ON new_db. * TO `ndbadmin` @`localhost`;
 mysql: FLUSH PRIVILEGES;
 ```  
 9. Створювання скрипту PHP /var/www/html/php-mysql-connect.php для підключення до локальної бази данних.  
+(код не мій)    
 ``` 
 $ cd /var/www/html/
 $ sudo vi php-mysql-connect.php  
