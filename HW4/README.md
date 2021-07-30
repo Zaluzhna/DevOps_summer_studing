@@ -44,32 +44,7 @@ mysql: CREATE USER `<name>`@`<host>` IDENTIFIED WITH mysql_native_password BY '<
 mysql: GRANT ALL ON new_db. * TO `ndbadmin` @`localhost`;  
 mysql: FLUSH PRIVILEGES;
 ```  
-9. Створювання скрипту PHP /var/www/html/php-mysql-connect.php для підключення до локальної бази данних.  
-(код не мій)    
-``` 
-$ cd /var/www/html/
-$ sudo vi php-mysql-connect.php  
-```  
-``` php  
-<?php
-  $conn = new mysqli("localhost", "<user name>", "<password>", "<database name>");
-  
-  if ($conn->connect_error) {
-    die("ERROR: Unable to connect: " . $conn->connect_error);
-  } 
 
-  echo 'Connected to the database.';
-
-  $conn->close();
-?>
-```  
-10. Надання права execute файлу.
-```
-$ sudo chmod +x . php-mysql-connect.php
-```
-  
-  Далі або щось неправильно написано, або я просто не знаю, як це все перевірити.   
-  Розбираюся.  
   
 ### Firewall  
 
