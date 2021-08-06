@@ -1,12 +1,12 @@
----
+---  
 ## Home Work № 0  
 02.07.2021  
 **1. Зареєструватися на [GitHub](https://github.com/)**  
 **2. Пройти тренування на [Introduction to GitHub](https://lab.github.com/)**  
 >Рекомендовано до прочитання:  
 [Pro Git](https://git-scm.com/book/en/v2) до розділу 3. (Git Branching включно.)  
-  
----
+
+---  
 ## Home Work № 1  
 06.07.2021  
 VirtualBox, git  
