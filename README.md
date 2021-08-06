@@ -1,4 +1,3 @@
----  
 ## Home Work № 0  
 02.07.2021  
 **1. Зареєструватися на [GitHub](https://github.com/)**  
